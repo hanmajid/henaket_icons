@@ -1,0 +1,30 @@
+name: henaket_icons
+description: Collection of beautiful and well-designed icons from Henaket UI Kit
+version: 0.0.1
+homepage: https://github.com/hanmajid/henaket_icons
+issue_tracker: https://github.com/hanmajid/henaket_icons/issues
+repository: https://github.com/hanmajid/henaket_icons
+funding:
+  - https://github.com/sponsors/hanmajid
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: HenaketIcons
+      fonts:
+        - asset: assets/HenaketIcons.ttf
+
+topics:
+  - assets
+  - icons
+  - ui
+
+screenshots:
+  - description: 'Henaket icons'
+    path: henaket-icons.png
