@@ -1,5 +1,7 @@
 # Henaket Icons
 
+[![pub package](https://img.shields.io/pub/v/henaket_icons.svg)](https://pub.dev/packages/henaket_icons)
+
 Unofficial Flutter package for **Henaket UI Kit icons**. Henaket UI Kit is made by [ISAA Design Team](https://www.figma.com/@ISAAGOV) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Installation
@@ -10,27 +12,6 @@ Add `henaket_icons` dependency to your Flutter project:
 dependencies:
   henaket_icons: ^<latest-version>
 ```
-
-### Installation (Local)
-
-If you purchased this package from marketplace, follow instructions below to use this package:
-
-1. Put `henaket_icons` package folder in the same folder as your Flutter project like shown below:
-   ```
-   └── my_working_directory/
-       ├── henaket_icons/                  # Place package folder here
-       └── my_awesome_flutter_project/      # Place your Flutter project folder here
-   ```
-2. In your `pubspec.yaml` file, add `henaket_icons` as local dependency in your Flutter project:
-   ```yaml
-   dependencies:
-     henaket_icons:
-       path: ../henaket_icons
-   ```
-3. Update your Flutter project dependencies by running:
-   ```
-   flutter pub get
-   ```
 
 ## Usage
 
@@ -52,7 +33,7 @@ For issues, file directly in the [repository](https://github.com/hanmajid/henake
 
 ## Icons
 
-<img src="henaket-icons.png">
+<img src="https://github.com/hanmajid/henaket_icons/blob/master/henaket-icons.png?raw=true">
 
 All Henaket icons can be viewed on its Figma file [here](https://www.figma.com/community/file/1179442320711977498).
 
