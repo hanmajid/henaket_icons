@@ -33,7 +33,7 @@ For issues, file directly in the [repository](https://github.com/hanmajid/henake
 
 ## Icons
 
-<img src="https://github.com/hanmajid/henaket_icons/blob/master/henaket-icons.png?raw=true">
+<img src="https://raw.githubusercontent.com/hanmajid/henaket_icons/refs/heads/main/henaket-icons.png">
 
 All Henaket icons can be viewed on its Figma file [here](https://www.figma.com/community/file/1179442320711977498).
 
